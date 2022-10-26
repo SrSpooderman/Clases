@@ -1,5 +1,5 @@
 #Array modificable
-array = [6,5,2,4,3,12,3,1,2,4,6,8,4,2,12,1,1,1,1,1]
+array = []
 #Empieza el bucle bastante bonito
 for pasada in range (len(array)):
     min = array[len(array)-1]
