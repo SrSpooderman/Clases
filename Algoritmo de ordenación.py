@@ -1,5 +1,5 @@
 #Array modificable
-array = [5,6,2,1,4,6,8,3,4,2,45,2,4,2,1]
+array = [6,5,2,4,3,12,3,1,2,4,6,8,4,2,12,1,1,1,1,1]
 #Empieza el bucle bastante bonito
 for pasada in range (len(array)):
     min = array[len(array)-1]
@@ -16,7 +16,6 @@ for pasada in range (len(array)):
         elif array[num] == min:
             min = array[num]
             min_pos = num
-        num = ""
     #Aqui se colocan los datos dentro del array, el comentario es para comprobar
     #print("pongo el numero",min, "en la posicion", pasada)
     array.pop(min_pos)
