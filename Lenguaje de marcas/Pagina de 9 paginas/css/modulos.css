@@ -1,0 +1,37 @@
+@font-face {
+    font-family: "columna" ;
+    src: url("fuentes/OPTIColumna-Solid.otf");
+}
+body{
+    background-image: url("img/asd.gif");
+    background-color:rgb(107, 14, 14);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.titulo{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 40px;
+    color: white;
+}
+.titulo a{
+    font-family: columna;
+}
+#menu ul {
+    text-align: center;
+    list-style-type: none;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
+#menu ul li {
+    display: inline-block;
+    background-color: rgb(107, 14, 14);
+    border-radius: 20px 20px 20px 20px;
+}
+#menu ul li a{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 20px 30px 20px 30px;
+}

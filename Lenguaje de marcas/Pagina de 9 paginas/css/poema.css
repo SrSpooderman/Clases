@@ -1,0 +1,21 @@
+body{
+    background-image: url("img/vazquez.gif");
+    background-size: 200px;
+}
+.poema {
+    padding: 10px 20px 10px 20px;
+}
+.poema p {
+    text-shadow: 0 0 5px black;
+    background-image: url("img/poema.gif");
+    background-size: cover;
+    background-color: #24a19c;
+    padding: 10px 20px 10px 20px;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 20%;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    border-radius: 4px 50px 4px 50px;
+}

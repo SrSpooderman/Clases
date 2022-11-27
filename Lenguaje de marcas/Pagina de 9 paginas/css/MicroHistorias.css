@@ -1,0 +1,47 @@
+@font-face {
+    font-family: "kimetsu";
+    src: url("fuentes/bloodcrow.ttf");
+}
+@font-face {
+    font-family: "columna" ;
+    src: url("fuentes/OPTIColumna-Solid.otf");
+}
+@font-face {
+    font-family: "port";
+    src: url("fuentes/Portmanteau_Regular.ttf ");
+}
+body{
+    background-image: url("img/libreria.jpg");
+}
+#uwu {
+    height: 100%;
+    width: 100%;
+}
+#paragrafo {
+    margin-left:40%;
+    margin-right: 40%;
+}
+#paragrafo p {
+    padding: 10px 20px 10px 20px;
+}
+.uno {
+    color: #ff3f25;
+    font-family: "kimetsu";
+    background: linear-gradient(to right bottom, #960c13, #510808);
+    font-size: 17px;
+    border-radius: 20px 20px 20px 20px;
+}
+.dos {
+    color: #06243b;
+    font-family: "columna";
+    background: linear-gradient(to right bottom, #0e496b, #0682c9);
+    font-size: 14px;
+    border-radius: 20px 20px 20px 20px;
+}
+.tres {
+    color: #3a0504;
+    font-family: "port";
+    background: linear-gradient(to right bottom, #a0628b, #580e3e);
+    font-size: 13px;
+    border-radius: 20px 20px 20px 20px;
+}
