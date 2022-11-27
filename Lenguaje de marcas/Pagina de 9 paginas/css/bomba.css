@@ -1,0 +1,69 @@
+/*¿bomba?*/
+*{/*¿bomba?*/
+    /*¿bomba?*/
+    margin: 0;/*¿bomba?*/
+    /*¿bomba?*/
+    padding: 0;/*¿bomba?*/
+    /*¿bomba?*/
+}/*¿bomba?*/
+/*¿bomba?*/
+.musica{/*¿bomba?*/
+    /*¿bomba?*/
+    display: none;/*¿bomba?*/
+    /*¿bomba?*/
+}/*¿bomba?*/
+/*¿bomba?*/
+body{/*¿bomba?*/
+    /*¿bomba?*/
+    background-image: url("img/bomba.gif");/*¿bomba?*/
+    /*¿bomba?*/
+    background-repeat: no-repeat;/*¿bomba?*/
+    /*¿bomba?*/
+    background-size: cover;/*¿bomba?*/
+    /*¿bomba?*/
+    background-position: 10%;/*¿bomba?*/
+    /*¿bomba?*/
+    background-color: #5e5e5e;/*¿bomba?*/
+    /*¿bomba?*/
+}/*¿bomba?*/
+/*¿bomba?*/
+#desierto{/*¿bomba?*/
+    /*¿bomba?*/
+    align-items: center;/*¿bomba?*/
+    /*¿bomba?*/
+    display: flex;/*¿bomba?*/
+    /*¿bomba?*/
+    justify-content: center;/*¿bomba?*/
+    /*¿bomba?*/
+    height: 100%;/*¿bomba?*/
+    /*¿bomba?*/
+}/*¿bomba?*/
+/*¿bomba?*/
+.titulo{/*¿bomba?*/
+    /*¿bomba?*/
+    width: 100%;/*¿bomba?*/
+    /*¿bomba?*/
+    height: 50px;/*¿bomba?*/
+    /*¿bomba?*/
+    margin-top: 20px;/*¿bomba?*/
+    /*¿bomba?*/
+    text-align: center;/*¿bomba?*/
+    /*¿bomba?*/
+    margin-bottom: 50px;/*¿bomba?*/
+    /*¿bomba?*/
+}
+/*¿bomba?*/
+.titulo a{/*¿bomba?*/
+    /*¿bomba?*/
+    background-color: #6f6f6f;/*¿bomba?*/
+    /*¿bomba?*/
+    color: white;/*¿bomba?*/
+    /*¿bomba?*/
+    padding: 10px;/*¿bomba?*/
+    /*¿bomba?*/
+    font-size: 40px;/*¿bomba?*/
+    /*¿bomba?*/
+    border-radius: 20px 20px 20px 20px;/*¿bomba?*/
+    /*¿bomba?*/
+}/*¿bomba?*/
+/*¿bomba?*/

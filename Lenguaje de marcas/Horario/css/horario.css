@@ -1,0 +1,42 @@
+/* pagina general */
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    position: relative;
+}
+/* Horario */
+#horario {
+    border: 4px solid black;
+    border-collapse: collapse;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+#horario tr td{
+    border: 2px solid black;
+    text-align: center;
+    padding: 10px 10px 0px 0px;
+}
+#horario tr th{
+    background-color: #cdb0ac;
+    border: 1px solid black;
+    padding: 10px 10px 0px 0px;
+}
+#horario tr .base{
+    background-color: #ac5e4a;
+}
+#horario tr .entornos{
+    background-color: #a6b8ba;
+}
+#horario tr .programacion{
+    background-color: #979a7b;
+}
+#horario tr .sistemas{
+    background-color: #726a45;
+}
+#horario tr .marcas{
+    background-color: #ddd5d0;
+}

@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    color: white;
+}
+body{
+    background-color: black;
+    background-image: url("img/back.jpg");
+    background-size: cover;
+}
+#profile{
+    border-radius: 100px;
+    float: left;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+#descripcion{
+    width: 100%;
+    height: 240px;
+    margin-bottom: 10px;
+}
+#descripcion h1{
+    text-align: center;
+    font-size: 60px;
+    padding: 15px 0px 10px 0px;
+}
+#descripcion p{
+    margin-right: 50px;
+    margin-left: 250px;
+    background-color: rgba(0, 0, 0, 0.362);
+    border-radius: 20px 20px 20px 20px;
+}
+.idiomas{
+    display: inline-;
+    margin: 20px;
+    text-align: center;
+}
+#curri{
+    margin-left: 0px;
+    width: 100%;
+
+}
+#curri div{
+    padding: 10px;
+    height: 100%;
+    width: 30%;
+    display: inline-block;
+}
