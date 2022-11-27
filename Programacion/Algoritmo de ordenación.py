@@ -1,6 +1,6 @@
 #Array modificable
 array = []
-#Empieza el bucle bastante bonito
+#Empieza el bucle bastante bonito xd
 for pasada in range (len(array)):
     min = array[len(array)-1]
     #print("es la pasada", pasada)
