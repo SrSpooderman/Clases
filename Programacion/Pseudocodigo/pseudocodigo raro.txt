@@ -1,0 +1,14 @@
+array(1,2,3,4,5,6,7,8)
+numero_buscar= 7
+pos_num_actual= len(array)/2
+numero_actual= array[pos_num_actual]
+i=0
+d=len(array)
+
+while numero_actual != numero_buscar:
+	if numero_actual > numero_buscar:
+		d = i+d/2
+	
+	elif numero_actual > numero_buscar:
+		i = i+d/2
+	numero_actual=array[i+d/2]

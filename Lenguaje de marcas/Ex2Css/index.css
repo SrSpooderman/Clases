@@ -1,0 +1,50 @@
+p strong{
+    color: red;
+}
+p a{
+    color: red;
+}
+p a em{
+    color: blue;
+}
+p span{
+    color: purple;
+}
+#adicional p{
+    color: rgb(71, 144, 34);
+}
+#adicional p a{
+    color: green;
+}
+#adicional span#especial{
+    color: violet;
+}
+table{
+    color: green;
+    border: 1px solid black;
+    text-align: center;
+    border-collapse: collapse;
+}
+table * th,td{
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
+caption{
+    color: blue;
+}
+thead{
+    color: orange;
+}
+tfoot{
+    color: red;
+}
+tbody strong{
+    color: orange;
+}
+tbody tr th{
+    color: red;
+}
+tbody .especial{
+    color: orange;
+}
